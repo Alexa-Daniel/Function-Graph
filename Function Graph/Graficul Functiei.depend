@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1736710792 source:d:\fii 2024-2027\ip\proiect graficul functiei\graficul functiei\main.cpp
+	<set>
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<ctime>
+
+1736710792 source:c:\users\danie\desktop\graficul functiei\main.cpp
+	<set>
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<ctime>
+
