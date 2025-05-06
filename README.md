@@ -1,5 +1,5 @@
 # Function-Graph
-A C++ console application which displays the graph of a function.
+A C++ console application which displays the graph of a function input by the user with multiple functionalities, such as multiple functions in the same graph, a history tab, a settings menu, etc.
 
 # How to use
 Download and unzip the repository, then run "Graficul Functiei.exe".
